@@ -16,7 +16,7 @@ we want to show each technician’s “live” location on a map interface.
 - pip install fastapi
 - pip install uvicorn 
 
-# How to run local API
+## How to run local API
 - Open your terminal
 - Go to react-maps/Rest folder
 - uvicorn technician:app --reload
@@ -26,7 +26,7 @@ we want to show each technician’s “live” location on a map interface.
 ## How to install libraries needed
 - npm install
 
-# How to run Web Application
+## How to run Web Application
 - Open your terminal
 - Go to react-maps folder
 - npm run start
